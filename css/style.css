@@ -1,4 +1,4 @@
-@import url('http://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,100;1,300;1,400&display=swap');
 
 :root{
     --green:#16a085;
@@ -112,7 +112,7 @@ section:nth-child(even){
 
 }
 
-#menu-btn{
+.menu-btn{
     font-size: 2.5rem;
     border-radius: .5rem;
     background: #eee;
@@ -525,27 +525,7 @@ section:nth-child(even){
     color: var(--green);
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+/* media */
 @media (max-width:991px) {
     html{
         font-size: 55%;
